@@ -47,7 +47,8 @@ async function ResortPage({ params }: Props) {
       {/* Hero Image */}
       <div className="relative h-[400px] bg-gray-200 overflow-hidden">
         <div
-          className="absolute inset-0 bg-[url('${resort.image.src}')] bg-cover bg-center"
+          className="absolute inset-0 bg-cover bg-center"
+          style={{ backgroundImage: `url('${resort.image.src}')` }}
           alt={`${resort.name} - ${resort.image.alt || ''}`}
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>

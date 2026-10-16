@@ -1,6 +1,6 @@
 import { getRequestConfig } from 'next-intl/server';
 import { notFound } from 'next/navigation';
-import dictionaries from './dictionaries.json';
+import dictionaries from './lib/dictionaries.json';
 import type { Dict } from 'next-intl';
 
 export type Locale = 'pl' | 'en';

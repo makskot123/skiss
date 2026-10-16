@@ -47,7 +47,7 @@ async function SafetyPage({ params }: Props) {
           </p>
           <div className="p-6 bg-white/10 backdrop-blur-sm rounded-lg border border-white/20">
             <p className="text-yellow-100 text-lg leading-relaxed">
-              🚨 <strong>Legal Disclaimer:</strong> {dict.safety.disclaimer}
+              🚨 <strong className="font-bold">Legal Disclaimer:</strong> {dict.safety.disclaimer}
             </p>
           </div>
         </div>
@@ -110,7 +110,7 @@ async function SafetyPage({ params }: Props) {
                         : ''
                 }`}
               >
-                {dict.safety.dangerDescription[level.toString()]?.replace/'placeholder', resort.name)}
+                {dict.safety.dangerDescription[level.toString()]}
               </p>
             </div>
           ))}
@@ -272,18 +272,6 @@ async function SafetyPage({ params }: Props) {
           </a>
         </div>
       </div>
-
-      {/* Footer */}
-      <footer className="py-8 px-4 bg-slate-50 dark:bg-slate-900 border-t border-slate-200 dark:border-slate-800">
-        <div className="max-w-6xl mx-auto text-center text-gray-600 dark:text-gray-400 text-sm">
-          <p className="mb-2">
-            © 2025 Freeride Atlas. Plan responsibly and ride safely.
-          </p>
-          <p className="text-xs">
-            Always read and follow the official avalanche forecast before heading out.
-          </p>
-        </div>
-      </footer>
     </div>
   );
 }
