@@ -1,0 +1,44 @@
+{
+  "name": "Verbier",
+  "slug": "verbier",
+  "country": "Switzerland",
+  "region": "Valais",
+  "longitude": 7.38,
+  "latitude": 46.19,
+  "minElevation": 1500,
+  "maxElevation": 3330,
+  "verticalDrop": 1830,
+  "numberOfLifts": 45,
+  "lifts": ["gondola", "chairlift", "cablecar"],
+  "liftAccessibleOffPiste": true,
+  "skiTouringAccess": true,
+  "terrainDifficulty": 5,
+  "averageSnowfall": 3200,
+  "seasonStart": "2025-11-30",
+  "seasonEnd": "2026-04-15",
+  "approxLiftPassPrice": 160,
+  "nearestAirport": "Sitten (VSZ)",
+  "transferTime": 45,
+  "coverage": {
+    "verified": true,
+    "lastVerified": "2025-09-15",
+    "notes": null
+  },
+  "suitability": {
+    "beginners": 2,
+    "intermediates": 4,
+    "experts": 5
+  },
+  "tags": ["powder", "trees", "skiTouring"],
+  "description": "Verbier is a haven for high-alpine freeriding and vast backcountry exploration.",
+  "officialLinks": {
+    "resort": "https://www.verbier.ch",
+    "snowReport": "https://www.verbier.ch/snow-report",
+    "webcam": "https://www.verbier.ch/webcams"
+  },
+  "image": {
+    "src": "https://images.unsplash.com/photo-1551685113-4f0c36104310?w=1200&q=80",
+    "alt": "Verbier snow",
+    "attribution": "Unsplash"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Livigno",
+  "slug": "livigno",
+  "country": "Italy",
+  "region": "Lombardy",
+  "longitude": 9.58,
+  "latitude": 46.48,
+  "minElevation": 1250,
+  "maxElevation": 2940,
+  "verticalDrop": 1690,
+  "numberOfLifts": 45,
+  "lifts": ["gondola", "chairlift", "draglift"],
+  "liftAccessibleOffPiste": true,
+  "skiTouringAccess": true,
+  "terrainDifficulty": 4,
+  "averageSnowfall": 3100,
+  "seasonStart": "2025-12-01",
+  "seasonEnd": "2026-04-15",
+  "approxLiftPassPrice": 110,
+  "nearestAirport": "Milan (MXP)",
+  "transferTime": 150,
+  "coverage": {
+    "verified": true,
+    "lastVerified": "2025-08-25",
+    "notes": null
+  },
+  "suitability": {
+    "beginners": 3,
+    "intermediates": 4,
+    "experts": 4
+  },
+  "tags": ["powder", "park", "trees"],
+  "description": "High-altitude Italian paradise known for its excellent snow quality, variety of terrain, and vibrant après-ski scene.",
+  "officialLinks": {
+    "resort": "https://www.livigno.it",
+    "snowReport": "https://www.livigno.it/en/snow-report",
+    "webcam": "https://www.livigno.it/webcams"
+  },
+  "image": {
+    "src": "https://images.unsplash.com/photo-1551685113-4f0c36104310?w=1200&q=80",
+    "alt": "Livigno snow",
+    "attribution": "Unsplash"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "St. Anton",
+  "slug": "st-anton",
+  "country": "Austria",
+  "region": "Tirol",
+  "minElevation": 1800,
+  "maxElevation": 3300,
+  "verticalDrop": 1500,
+  "numberOfLifts": 130,
+  "lifts": ["chairlift", "cablecar", "gondola", "t-bar"],
+  "liftAccessibleOffPiste": true,
+  "skiTouringAccess": true,
+  "terrainDifficulty": 4,
+  "averageSnowfall": 3200,
+  "seasonStart": "2025-12-01",
+  "seasonEnd": "2026-04-15",
+  "approxLiftPassPrice": 75,
+  "nearestAirport": "Innsbruck (INN)",
+  "transferTime": 90,
+  "coverage": {
+    "verified": true,
+    "lastVerified": "2025-09-15",
+    "notes": null
+  },
+  "suitability": {
+    "beginners": 2,
+    "intermediates": 4,
+    "experts": 5
+  },
+  "tags": ["powder", "trees", "skiTouring"],
+  "description": "The freeride capital of the Arlberg region. St. Anton is famous for its vast off-piste terrain and high-quality snow. It's a paradise for advanced skiers and snowboarders.",
+  "officialLinks": {
+    "resort": "https://www.st-anton.at",
+    "snowReport": "https://www.meteofrance.fr",
+    "webcam": "https://www.skiresort.info"
+  },
+  "image": {
+    "src": "https://images.unsplash.com/photo-1486153403414-37247fbbdb02?w=1600&q=80",
+    "alt": "St. Anton mountains",
+    "attribution": "Unsplash"
+  },
+  "longitude": 9.68,
+  "latitude": 47.36
+}

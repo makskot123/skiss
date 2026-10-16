@@ -1,0 +1,44 @@
+{
+  "name": "Lech Zürsler",
+  "slug": "lech-zursler",
+  "country": "Austria",
+  "region": "Vorarlberg",
+  "longitude": 9.85,
+  "latitude": 47.41,
+  "minElevation": 1200,
+  "maxElevation": 2500,
+  "verticalDrop": 1300,
+  "numberOfLifts": 40,
+  "lifts": ["chairlift", "gondola"],
+  "liftAccessibleOffPiste": true,
+  "skiTouringAccess": true,
+  "terrainDifficulty": 3,
+  "averageSnowfall": 2800,
+  "seasonStart": "2025-12-01",
+  "seasonEnd": "2026-04-15",
+  "approxLiftPassPrice": 120,
+  "nearestAirport": "Innsbruck (INN)",
+  "transferTime": 90,
+  "coverage": {
+    "verified": true,
+    "lastVerified": "2025-09-20",
+    "notes": null
+  },
+  "suitability": {
+    "beginners": 4,
+    "intermediates": 5,
+    "experts": 4
+  },
+  "tags": ["park", "trees", "glades"],
+  "description": "A high-quality Austrian destination offering perfect groomed runs and a diverse variety of terrain.",
+  "officialLinks": {
+    "resort": "https://www.lechzursler.com",
+    "snowReport": "https://www.lechzursler.com/snow-report",
+    "webcam": "https://www.lechzursler.com/webcams"
+  },
+  "image": {
+    "src": "https://images.unsplash.com/photo-1551685113-4f0c36104310?w=1200&q=80",
+    "alt": "Lech snow",
+    "attribution": "Unsplash"
+  }
+}

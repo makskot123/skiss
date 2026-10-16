@@ -1,0 +1,44 @@
+{
+  "name": "Engelberg",
+  "slug": "engelberg",
+  "country": "Switzerland",
+  "region": "Uri",
+  "minElevation": 1100,
+  "maxElevation": 3000,
+  "verticalDrop": 1900,
+  "numberOfLifts": 35,
+  "lifts": ["chairlift", "cablecar", "gondola"],
+  "liftAccessibleOffPiste": true,
+  "skiTouringAccess": true,
+  "terrainDifficulty": 4,
+  "averageSnowfall": 3500,
+  "seasonStart": "2025-12-01",
+  "seasonEnd": "2026-04-15",
+  "approxLiftPassPrice": 85,
+  "nearestAirport": "Zurich (ZRH)",
+  "transferTime": 90,
+  "coverage": {
+    "verified": true,
+    "lastVerified": "2025-09-15",
+    "notes": null
+  },
+  "suitability": {
+    "beginners": 3,
+    "intermediates": 4,
+    "experts": 4
+  },
+  "tags": ["powder", "trees", "skiTouring"],
+  "description": "Engelberg is a beautiful Swiss mountain resort known for its stunning scenery and excellent freeride terrain. It offers a wide range of runs, from wide-open bowls to challenging off-piste opportunities.",
+  "officialLinks": {
+    "resort": "https://www.engelberg-seriensen.ch",
+    "snowReport": "https://www.meteofrance.fr",
+    "webcam": "https://www.skiresort.info"
+  },
+  "image": {
+    "src": "https://images.unsplash.com/photo-1483917231523-1380da85605a?w=1600&q=80",
+    "alt": "Engelberg mountains",
+    "attribution": "Unsplash"
+  },
+  "longitude": 9.59,
+  "latitude": 7.27
+}

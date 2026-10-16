@@ -1,0 +1,44 @@
+{
+  "name": "La Grave",
+  "slug": "la-grave",
+  "country": "France",
+  "region": "Isère",
+  "minElevation": 1600,
+  "maxElevation": 3200,
+  "verticalDrop": 1600,
+  "numberOfLifts": 12,
+  "lifts": ["chairlift", "draglift"],
+  "liftAccessibleOffPiste": true,
+  "skiTouringAccess": true,
+  "terrainDifficulty": 5,
+  "averageSnowfall": 4000,
+  "seasonStart": "2025-12-01",
+  "seasonEnd": "2026-04-15",
+  "approxLiftPassPrice": 45,
+  "nearestAirport": "Grenoble (GNB)",
+  "transferTime": 120,
+  "coverage": {
+    "verified": true,
+    "lastVerified": "2025-09-15",
+    "notes": null
+  },
+  "suitability": {
+    "beginners": 1,
+    "intermediates": 2,
+    "experts": 5
+  },
+  "tags": ["powder", "couloirs", "trees", "heliskiing", "skiTouring"],
+  "description": "A legendary freeride paradise for the advanced. La Grave is famous for its steep, wide-open slopes and massive off-piste potential. Access is primarily via a few large lifts that drop you into some of the most demanding terrain in the Ecrins massif.",
+  "officialLinks": {
+    "resort": "https://www.lagegrave.fr",
+    "snowReport": "https://www.meteofrance.fr",
+    "webcam": "https://www.skiresort.info"
+  },
+  "image": {
+    "src": "https://images.unsplash.com/photo-1551908390-35261978f7a1?w=1600&q=80",
+    "alt": "La Grave mountains",
+    "attribution": "Unsplash"
+  },
+  "longitude": 6.77,
+  "latitude": 6.35
+}

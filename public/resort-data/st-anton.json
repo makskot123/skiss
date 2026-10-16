@@ -1,0 +1,44 @@
+{
+  "name": "St. Anton am Arlberg",
+  "slug": "st-anton",
+  "country": "Austria",
+  "region": "Tyrol",
+  "longitude": 9.67,
+  "latitude": 47.36,
+  "minElevation": 1200,
+  "maxElevation": 3048,
+  "verticalDrop": 1848,
+  "numberOfLifts": 105,
+  "lifts": ["chairlift", "draglift", "gondola"],
+  "liftAccessibleOffPiste": true,
+  "skiTouringAccess": true,
+  "terrainDifficulty": 5,
+  "averageSnowfall": 3200,
+  "seasonStart": "2025-12-01",
+  "seasonEnd": "2026-04-15",
+  "approxLiftPassPrice": 135,
+  "nearestAirport": "Innsbruck (INN)",
+  "transferTime": 80,
+  "coverage": {
+    "verified": true,
+    "lastVerified": "2025-09-20",
+    "notes": null
+  },
+  "suitability": {
+    "beginners": 2,
+    "intermediates": 4,
+    "experts": 5
+  },
+  "tags": ["powder", "couloirs", "trees", "skiTouring"],
+  "description": "The legendary home of freeriding. Renowned for its deep powder and challenging off-piste terrain.",
+  "officialLinks": {
+    "resort": "https://www.arlberg.com",
+    "snowReport": "https://www.arlberg.com/en/snow-report",
+    "webcam": "https://www.arlberg.com/webcams"
+  },
+  "image": {
+    "src": "https://images.unsplash.com/photo-1551685113-4f0c36104310?w=1200&q=80",
+    "alt": "St. Anton snow",
+    "attribution": "Unsplash"
+  }
+}

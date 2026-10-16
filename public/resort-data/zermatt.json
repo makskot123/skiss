@@ -1,0 +1,44 @@
+{
+  "name": "Zermatt",
+  "slug": "zermatt",
+  "country": "Switzerland",
+  "region": "Valais",
+  "longitude": 7.72,
+  "latitude": 46.08,
+  "minElevation": 1600,
+  "maxElevation": 3899,
+  "verticalDrop": 2299,
+  "numberOfLifts": 52,
+  "lifts": ["gondola", "chairlift", "cablecar"],
+  "liftAccessibleOffPiste": true,
+  "skiTouringAccess": true,
+  "terrainDifficulty": 4,
+  "averageSnowfall": 2800,
+  "seasonStart": "2025-11-30",
+  "seasonEnd": "2026-04-15",
+  "approxLiftPassPrice": 180,
+  "nearestAirport": "Sitten (VSZ)",
+  "transferTime": 40,
+  "coverage": {
+    "verified": true,
+    "lastVerified": "2025-09-15",
+    "notes": null
+  },
+  "suitability": {
+    "beginners": 3,
+    "intermediates": 4,
+    "experts": 5
+  },
+  "tags": ["powder", "trees", "skiTouring"],
+  "description": "The iconic Matterhorn destination. Known for high-altitude terrain and world-class backcountry access.",
+  "officialLinks": {
+    "resort": "https://www.zermatt.ch",
+    "snowReport": "https://www.zermatt.ch/en/snow-report",
+    "webcam": "https://www.zermatt.ch/webcams"
+  },
+  "image": {
+    "src": "https://images.unsplash.com/photo-1504101066132-10e30186731c?w=1200&q=80",
+    "alt": "Zermatt mountains",
+    "attribution": "Unsplash"
+  }
+}

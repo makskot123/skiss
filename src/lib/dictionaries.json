@@ -1,0 +1,224 @@
+{
+  "pl": {
+    "common": {
+      "skipToContent": "Przejdź do głównej zawartości",
+      "searchPlaceholder": "Szukaj...",
+      "menu": "Menu",
+      "close": "Zamknij",
+      "download": "Pobierz",
+      "loading": "Przygotowywanie..."
+    },
+    "nav": {
+      "home": "Strona główna",
+      "resorts": "Ośrodki",
+      "map": "Mapa",
+      "safety": "Bezpieczeństwo",
+      "tripPlanner": "Plan podróży",
+      "gear": "Sprzęt",
+      "blog": "Blog",
+      "glossary": "Słownik",
+      "lang": "PL | EN"
+    },
+    "home": {
+      "heroTitle": "Epickie trasy freeridowe w Europie",
+      "heroSubtitle": "Znajdź idealne miejsce na off-piste, sprawdź warunki śniegu i rozważ śmiertelne couloiry",
+      "featuredPiste": "Wyróżniona trasa",
+      "valleyOfHell": "Dolina piekła",
+      "startJourney": "Rozpocznij przygodę"
+    },
+    "resorts": {
+      "title": "Ośrodki narciarskie",
+      "subtitle": "Wybierz idealny ośrodek na swoją następną przygodę",
+      "allResorts": "Wszystkie ośrodki",
+      "filterBy": "Filtruj według",
+      "price": "Cena biletu",
+      "difficulty": "Trudność",
+      "tags": "Tagi",
+      "countries": "Kraje",
+      "numberOfResorts": "{count} ośrodków",
+      "mapTitle": "Interaktywna Mapa",
+      "sortBy": "Sortuj według",
+      "from": "od {price}€",
+      "to": "do {price}€",
+      "approximate": "Przybliżona data",
+      "verified": "Sprawdzona",
+      "clickForDetails": "Kliknij dla szczegółów"
+    },
+    "resort": {
+      "bestTimeToGo": "Najlepszy czas na wyjazd",
+      "typicalDescents": "Zwykłe przejazdy",
+      "localTips": "Lokalne porady",
+      "snowConditions": "Warunki śniegu",
+      "avalancheBulletin": "Ostrzeżenia lawinowe",
+      "webcams": "Webcamy",
+      "liftAccess": "Dostęp narciarski",
+      "offPiste": "Off-piste dostępny wyciągami"
+    },
+    "safety": {
+      "title": "Bezpieczeństwo w górach",
+      "subtitle": "Przygotuj się odpowiednio przed wyjazdem w teren poza przygotowane trasy",
+      "avalancheScale": "Skala zagrożenia lawinowego EAWS",
+      "dangerLevels": {
+        "1": "Niska",
+        "2": "Średnia",
+        "3": "Wysoka",
+        "4": "Bardzo wysoka",
+        "5": "Krytyczna"
+      },
+      "dangerDescription": {
+        "1": "Dobrze uregulowana lawina. Śnieg stabilny. Można bezpiecznie jeździć off-piste przy zachowaniu podstawowych zasad.",
+        "2": "Niektóre lokalne obszary niebezpieczne. Uważaj na 'głęboki śnieg' (deep slab). Unikaj stromych faców.",
+        "3": "Ogólne zagrożenie. Niebezpieczne warunki lawinowe. Tylko dla zaawansowanych freeriderów z dużym doświadczeniem lawinowym. Powinieneś zatrzymać się, jeśli brzesi droga.",
+        "4": "Ryzykowne w całym obszarze. Lawiny często ginące (slab avalanches). Niezwykle niebezpieczne. Ogranicz się do już z badanych faców dla biegowarci (ski touring).",
+        "5": "Bardzo wysokie ryzyko w dużej części obszaru. Intensywne pakowanie śniegu. Bardzo niebezpieczne w korytach i na bardzo stromych zboczach."
+      },
+      "preTourChecklist": {
+        "title": "Sprawdź przed wyjazdem",
+        "gear": "Sprzęt lawinowy",
+        "routePlan": "Plan trasy",
+        "partner": "Trójka lub więcej",
+        "conditions": "Sprawdź ostatnie ostrzeżenia lawinowe",
+        "course": "Ukończ kurs lawinowy"
+      },
+      "gear": {
+        "transceiver": "Transceiver (beacon)",
+        "probe": "Probe (przyrząd do wyciągania)",
+        "shovel": "Shovel (łopata)",
+        "airbag": "Torba powietrzowa (airbag)"
+      },
+      "disclaimer": "Te informacje pomagają przygotować się do wyprawy, ale nie zastępują profesjonalnego instruktażu. Używasz wszystkich informacji na własne ryzyko. Zawsze sprawdź oficjalne ostrzeżenia lawinowe przed rozpoczęciem wyprawy.",
+      "officialBulletins": "Oficjalne ostrzeżenia lawinowe"
+    },
+    "tripPlanner": {
+      "title": "Plan podróży",
+      "subtitle": "Przygotuj plan i budżet na swoją wyprawę"
+    },
+    "gear": {
+      "title": "Przewodnik sprzętu",
+      "subtitle": "Co zabrać na trasy poza wyciągami"
+    },
+    "comparison": {
+      "title": "Porównanie ośrodków"
+    },
+    "badge": {
+      "verified": "Sprawdzona data",
+      "approximate": "Przybliżona data",
+      "beginner": "Dla początkujących",
+      "intermediate": "Dla średniozaawansowanych",
+      "expert": "Dla zaawansowanych",
+      "powder": "Puręza",
+      "couloirs": "Couloiry"
+    }
+  },
+  "en": {
+    "common": {
+      "skipToContent": "Skip to main content",
+      "searchPlaceholder": "Search...",
+      "menu": "Menu",
+      "close": "Close",
+      "download": "Download",
+      "loading": "Loading..."
+    },
+    "nav": {
+      "home": "Home",
+      "resorts": "Resorts",
+      "map": "Map",
+      "safety": "Safety",
+      "tripPlanner": "Trip Planner",
+      "gear": "Gear",
+      "blog": "Blog",
+      "glossary": "Glossary",
+      "lang": "PL | EN"
+    },
+    "home": {
+      "heroTitle": "Epic freeride terrain in Europe",
+      "heroSubtitle": "Find the perfect resort for off-piste, check snow conditions, discover jaw-dropping couloirs",
+      "featuredPiste": "Featured run",
+      "valleyOfHell": "Valley of Hell",
+      "startJourney": "Start the adventure"
+    },
+    "resorts": {
+      "title": "Ski Resorts",
+      "subtitle": "Choose the perfect destination for your next adventure",
+      "allResorts": "All resorts",
+      "filterBy": "Filter by",
+      "price": "Lift pass price",
+      "difficulty": "Difficulty",
+      "tags": "Tags",
+      "countries": "Countries",
+      "numberOfResorts": "{count} resorts",
+      "mapTitle": "Interactive Map",
+      "sortBy": "Sort by",
+      "from": "from {price}€",
+      "to": "to {price}€",
+      "approximate": "Approximate data",
+      "verified": "Verified",
+      "clickForDetails": "Click for details"
+    },
+    "resort": {
+      "bestTimeToGo": "Best time to go",
+      "typicalDescents": "Typical descents",
+      "localTips": "Local tips",
+      "snowConditions": "Snow conditions",
+      "avalancheBulletin": "Avalanche bulletin",
+      "webcams": "Webcams",
+      "liftAccess": "Lift Access",
+      "offPiste": "Off-piste accessible by lifts"
+    },
+    "safety": {
+      "title": "Mountain Safety",
+      "subtitle": "Prepare properly before heading into the backcountry",
+      "avalancheScale": "European avalanche danger scale EAWS",
+      "dangerLevels": {
+        "1": "Low",
+        "2": "Moderate",
+        "3": "High",
+        "4": "Very high",
+        "5": "Extreme"
+      },
+      "dangerDescription": {
+        "1": "Generally stable snow. Key|risk of avalanche limited to specific areas. Good conditions for off-piste skiing with proper terrain selection.",
+        "2": "Widespread unstable snow. Localized avalanche activity possible. Watch for 'slabs' and 'wind slabs'. Avoid exposed faces.",
+        "3": "Widespread dangerous conditions. Autonomous risk in most areas. Only for experts with extensive avalanche training. Turn back if you're unsure.",
+        "4": "Significant risk in large portions of the area. Slab avalanches likely. Extremely dangerous. Limit to previously-tested terrain and e](dingramping)(but still dangerous).",
+        "5": "Safety in question in large portions of the area. Intense pack. Very dangerous in and near runnels, even 'steep slabs' should be avoided."
+      },
+      "preTourChecklist": {
+        "title": "Pre-trip checklist",
+        "gear": "Avalanche gear (transceiver, probe, shovel, airbag)",
+        "routePlan": "Route plan",
+        "partner": "Travel with 2+ people",
+        "conditions": "Check recent avalanche bulletins",
+        "course": "Complete an avalanche awareness course"
+      },
+      "gear": {
+        "transceiver": "Transceiver (beacon)",
+        "probe": "Probe (probe)",
+        "shovel": "Shovel (shovel)",
+        "airbag": "Airbag pack (airbag)"
+      },
+      "disclaimer": "This information is intended to help you plan and prepare for your trip, but it does not replace professional guidance. Use at your own risk. Always check official avalanche bulletins before heading out.",
+      "officialBulletins": "Official avalanche bulletins"
+    },
+    "tripPlanner": {
+      "title": "Trip Planner",
+      "subtitle": "Plan your trip and budget in advance"
+    },
+    "gear": {
+      "title": "Gear Guide",
+      "subtitle": "What to pack for the resort"
+    },
+    "comparison": {
+      "title": "Compare resorts"
+    },
+    "badge": {
+      "verified": "Verified data",
+      "approximate": "Approximate data",
+      "beginner": "Beginner-friendly",
+      "intermediate": "Intermediate",
+      "expert": "Expert",
+      "powder": "Powder",
+      "couloirs": "Couloirs"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "La Grave",
+  "slug": "la-grave",
+  "country": "France",
+  "region": "Isère",
+  "longitude": 6.52,
+  "latitude": 45.13,
+  "minElevation": 1600,
+  "maxElevation": 3500,
+  "verticalDrop": 1900,
+  "numberOfLifts": 20,
+  "lifts": ["chairlift", "draglift"],
+  "liftAccessibleOffPiste": true,
+  "skiTouringAccess": true,
+  "terrainDifficulty": 5,
+  "averageSnowfall": 4000,
+  "seasonStart": "2025-12-05",
+  "seasonEnd": "2026-04-10",
+  "approxLiftPassPrice": 50,
+  "nearestAirport": "Grenoble (GNB)",
+  "transferTime": 90,
+  "coverage": {
+    "verified": true,
+    "lastVerified": "2025-09-10",
+    "notes": null
+  },
+  "suitability": {
+    "beginners": 1,
+    "intermediates": 2,
+    "experts": 5
+  },
+  "tags": ["powder", "couloirs", "trees", "skiTouring"],
+  "description": "A remote, high-altitude paradise for experts. Known for its vast, untouched powder fields and minimal infrastructure.",
+  "officialLinks": {
+    "resort": "https://www.lagrave.fr",
+    "snowReport": "https://www.lagrave.fr/neige",
+    "webcam": "https://www.lagrave.fr/webcams"
+  },
+  "image": {
+    "src": "https://images.unsplash.com/photo-1486017011420-450982491a1a?w=1200&q=80",
+    "alt": "La Grave powder",
+    "attribution": "Unsplash"
+  }
+}

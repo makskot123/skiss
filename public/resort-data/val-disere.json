@@ -1,0 +1,44 @@
+{
+  "name": "Val d'Isère",
+  "slug": "val-disere",
+  "country": "France",
+  "region": "Savoie",
+  "longitude": 6.81,
+  "latitude": 45.70,
+  "minElevation": 1800,
+  "maxElevation": 3000,
+  "verticalDrop": 1200,
+  "numberOfLifts": 70,
+  "lifts": ["gondola", "chairlift", "cablecar"],
+  "liftAccessibleOffPiste": true,
+  "skiTouringAccess": true,
+  "terrainDifficulty": 4,
+  "averageSnowfall": 3600,
+  "seasonStart": "2025-11-30",
+  "seasonEnd": "2026-04-15",
+  "approxLiftPassPrice": 165,
+  "nearestAirport": "Chambéry (CFM)",
+  "transferTime": 70,
+  "coverage": {
+    "verified": true,
+    "lastVerified": "2025-09-20",
+    "notes": null
+  },
+  "suitability": {
+    "beginners": 3,
+    "intermediates": 4,
+    "experts": 4
+  },
+  "tags": ["powder", "trees", "glades"],
+  "description": "The heart of the Espace Tignes-Pé Où, offering endless variety and superb high-altitude snow.",
+  "officialLinks": {
+    "resort": "https://www.valdisere.com",
+    "snowReport": "https://www.valdisere.com/snow-report",
+    "webcam": "https://www.valdisere.com/webcams"
+  },
+  "image": {
+    "src": "https://images.unsplash.com/photo-1551685113-4f0c36104310?w=1200&q=80",
+    "alt": "Val d'Isère snow",
+    "attribution": "Unsplash"
+  }
+}

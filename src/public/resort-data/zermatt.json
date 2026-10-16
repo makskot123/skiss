@@ -1,0 +1,44 @@
+{
+  "name": "Zermatt",
+  "slug": "zermatt",
+  "country": "Switzerland",
+  "region": "Valais",
+  "minElevation": 1600,
+  "maxElevation": 3900,
+  "verticalDrop": 2300,
+  "numberOfLifts": 40,
+  "lifts": ["chairlift", "cablecar", "gondola"],
+  "liftAccessibleOffPiste": true,
+  "skiTouringAccess": true,
+  "terrainDifficulty": 5,
+  "averageSnowfall": 4500,
+  "seasonStart": "2025-12-01",
+  "seasonEnd": "2026-04-15",
+  "approxLiftPassPrice": 120,
+  "nearestAirport": "Geneva (GVA)",
+  "transferTime": 120,
+  "coverage": {
+    "verified": true,
+    "lastVerified": "2025-09-15",
+    "notes": null
+  },
+  "suitability": {
+    "beginners": 2,
+    "intermediates": 4,
+    "experts": 5
+  },
+  "tags": ["powder", "couloirs", "trees", "heliskiing", "skiTouring"],
+  "description": "One of the most famous ski resorts in the world, Zermatt offers stunning views of the Matterhorn and incredible off-piste terrain. It's a world-class destination for high-altitude freeriding.",
+  "officialLinks": {
+    "resort": "https://www.zermatt.ch",
+    "snowReport": "https://www.meteofrance.fr",
+    "webcam": "https://www.skiresort.info"
+  },
+  "image": {
+    "src": "https://images.unsplash.com/photo-1483917231523-1380da85605a?w=1600&q=80",
+    "alt": "Zermatt mountains",
+    "attribution": "Unsplash"
+  },
+  "longitude": 7.75,
+  "latitude": 46.03
+}
