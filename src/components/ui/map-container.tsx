@@ -3,6 +3,12 @@ import Map, { CameraPosition, Marker } from 'react-map-gl';
 import ResortMarker from '@/components/resorts/resort-marker';
 import { Resort } from '@/lib/zods';
 
+// Use MapLibre instead of Mapbox
+import maplibregl from 'maplibre-gl';
+import 'maplibre-gl/dist/maplibre-gl.css';
+
+maplibregl.setAccessToken(null); // Not needed for MapLibre
+
 interface MapContainerProps {
   resorts: Resort[];
   onMarkerClick?: (resort: Resort) => void;

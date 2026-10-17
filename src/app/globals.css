@@ -47,29 +47,6 @@
   --ring: 212.7 26.8% 83.9%;
 }
 
-/* Alpine-themed dark colors */
-.dark.alpine-theme {
-  --background: 210 40% 8%;
-  --foreground: 200 50% 95%;
-  --card: 210 40% 10%;
-  --card-foreground: 200 50% 95%;
-  --popover: 210 40% 12%;
-  --popover-foreground: 200 50% 95%;
-  --primary: 210 50% 95%;
-  --primary-foreground: 210 20% 10%;
-  --secondary: 210 40% 15%;
-  --secondary-foreground: 200 50% 95%;
-  --muted: 210 40% 15%;
-  --muted-foreground: 200 30% 65%;
-  --accent: 210 40% 15%;
-  --accent-foreground: 200 50% 95%;
-  --destructive: 50 90% 45%;
-  --destructive-foreground: 210 40% 98%;
-  --border: 210 30% 20%;
-  --input: 210 30% 20%;
-  --ring: 210 50% 50%;
-}
-
 @layer base {
   * {
     @apply border-border;
@@ -79,26 +56,24 @@
   }
 }
 
-/* Custom scrollbar for better alpine feel */
-::-webkit-scrollbar {
+:::-webkit-scrollbar {
   width: 8px;
   height: 8px;
 }
 
-::-webkit-scrollbar-track {
+:::-webkit-scrollbar-track {
   background: hsl(var(--muted));
 }
 
-::-webkit-scrollbar-thumb {
+:::-webkit-scrollbar-thumb {
   background: hsl(var(--border));
   border-radius: 4px;
 }
 
-::-webkit-scrollbar-thumb:hover {
-  background: hsl(var(--rind));
+:::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--ring));
 }
 
-/* Image hover zoom effect */
 .image-zoom {
   overflow: hidden;
   position: relative;
