@@ -24,7 +24,10 @@ async function HomePage({ params }: Props) {
         </div>
 
         {/* Background image placeholder */}
-        <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1528811130514-d60b4504ab2c?w=1920&q=80')] bg-cover bg-center"></div>
+        <div
+          className="absolute inset-0 bg-cover bg-center group-hover:scale-105 transition-transform duration-500"
+          style={{ backgroundImage: `url('${resorts[0].image.src}')` }}
+        ></div>
 
         <div className="relative z-10 text-center px-4 mx-auto max-w-5xl">
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 tracking-tight">
@@ -76,7 +79,7 @@ async function HomePage({ params }: Props) {
               >
                 <div className={`relative h-64 rounded-xl overflow-hidden bg-gradient-to-br ${featuredColors[index]}`}>
                   {/* Resort image placeholder */}
-                  <div className="absolute inset-0 bg-[url('${resort.image.src}')] bg-cover bg-center group-hover:scale-105 transition-transform duration-500"></div>
+                  <div className="absolute inset-0 bg-cover bg-center group-hover:scale-105 transition-transform duration-500" style={{ backgroundImage: `url('${resort.image.src}')` }}></div>
                   <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
 
                   <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
